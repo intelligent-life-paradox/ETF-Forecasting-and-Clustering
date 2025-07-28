@@ -41,8 +41,12 @@ O projeto visa prever os valores de ETFs (Exchange-Traded Funds) de países do B
 
 Abaixo está uma amostra visual do desempenho preditivo de um dos modelos utilizados:
 
-![Desempenho do modelo]("(comparativo%20de%20modelos.png)
-")
+<p align="center">
+  <img src="images/comparativo_modelos.png" width="700"/>
+  <br>
+  <em>Figura: Comparativo de desempenho entre os modelos preditivos aplicados aos ETFs</em>
+</p>
+
 
 
 
