@@ -41,10 +41,9 @@ O projeto visa prever os valores de ETFs (Exchange-Traded Funds) de países do B
 
 Abaixo está uma amostra visual do desempenho preditivo de um dos modelos utilizados:
 
-![Desempenho do modelo]("C:\Users\joaol\OneDrive\Pictures\comparativo de modelos.png")
+![Desempenho do modelo]("")
 
-> 📎 Substitua o caminho acima por algo como:  
-> `images/model_performance.png` (e garanta que a imagem esteja dentro dessa pasta no repositório)
+
 
 ---
 
